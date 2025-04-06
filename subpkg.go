@@ -1,3 +1,3 @@
 package subpkg
 
-var Greeting = "Hello from submodule"
+var Greeting = "Hello from updated submodule"
